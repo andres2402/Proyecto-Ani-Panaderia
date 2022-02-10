@@ -1,0 +1,16 @@
+
+.cj_bt{
+ display: flex;
+ padding: 15px;
+ margin-left: 350px;
+}
+#btnbuscar{
+    margin-left: 5px;
+    
+}
+#bod{
+    background-color: rgb(199, 207, 207);
+}
+h5{
+    display: flex;
+}
