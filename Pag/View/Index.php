@@ -10,7 +10,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="Estilos/Style.css">
-    <title>Ani-Panaderia</title>
+    <title>Andres Marika</title>
 </head>
 <body id="bod">
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -119,5 +119,4 @@
 <!-- Footer -->
 </div>
 </body>
-
 </html>
