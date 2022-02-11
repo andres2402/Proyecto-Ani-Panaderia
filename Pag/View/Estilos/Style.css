@@ -14,3 +14,16 @@
 h5{
     display: flex;
 }
+.a1{
+    position: relative;
+    border: solid 1px grey;
+}
+.d{
+    margin: auto;
+    
+    height: 25pc;
+    width: 60pc;
+}
+#g{
+    height: 200px;
+}
